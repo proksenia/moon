@@ -1,0 +1,15 @@
+site_name: Google Docs
+
+nav:
+- Overview: index.md
+- Create a document: fl/create.md
+- Download: fl/download.md
+- Print: fl/print.md
+- Manager Access: fl/access.md
+- Manager Settings: fl/settings.md
+- Format: fl/format.md
+- Content: fl/content.md
+- Add-ons: fl/add-ons.md
+
+theme:
+  name: material
